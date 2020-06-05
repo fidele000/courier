@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "228564389749",
+    "firebase_url": "https://courier-f1674.firebaseio.com",
+    "project_id": "courier-f1674",
+    "storage_bucket": "courier-f1674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228564389749:android:fdabd503af87a82a7f8d3c",
+        "android_client_info": {
+          "package_name": "com.fikido.courier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228564389749-7mus4hesvjmtpqf18o5qgphchc7o6k8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCUjguogLY1lgEXADQqf-ckwy0fDQawdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228564389749-7mus4hesvjmtpqf18o5qgphchc7o6k8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
